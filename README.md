@@ -27,13 +27,7 @@
 
 🔊 New features and technologies will be added soon!
 
----
 
-| **Source Code** | **Website** |
-|:-----------------|:------------|
-| <a href="https://github.com/deepmancer/full-stack-fastapi-ftgo" target="_blank">github.com/deepmancer/full-stack-fastapi-ftgo</a> | <a href="https://deepmancer.github.io/full-stack-fastapi-ftgo/" target="_blank">deepmancer.github.io/full-stack-fastapi-ftgo</a> |
-
----
 
 
 ## 🔥 Technology Stack and Features
@@ -53,7 +47,7 @@
 
 - 🧰 [**Redis**](https://redis.io/):
   - Async operations for caching and session management.
-  - [redis-py](https://github.com/redis/redis-py) with [aredis-client](https://github.com/deepmancer/aredis-client).
+  - [redis-py](https://github.com/redis/redis-py) 
 
 - 💾 **PostgreSQL**:
   - Async client with [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ORM & automatic migrations with [alembic](https://github.com/sqlalchemy/alembic)..
