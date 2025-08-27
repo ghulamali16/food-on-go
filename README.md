@@ -1,5 +1,5 @@
 
-# **🍕 Full-stack Microservice-Based Food Delivery Application**
+# **🍕 FOG Microservice-Based Food Delivery Application**
 
 <p align="center">
     <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI">
